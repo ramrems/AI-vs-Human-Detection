@@ -1,0 +1,21 @@
+# Sanal Ortam
+venv/
+env/
+
+# Büyük Veri ve Model Dosyaları
+*.csv
+*.pkl
+*.h5
+saved_models/
+
+# Python Ön Bellek Dosyaları
+__pycache__/
+*.pyc
+
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
